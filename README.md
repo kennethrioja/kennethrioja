@@ -1,20 +1,16 @@
-<h1 align="center">Hi! 👋 I'm Kenneth Rioja</h1>
-<h3 align="center">Multifaceted dev (fullstack, ops, game) and data analyst!</h3>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethrioja&show_icons=true&locale=en&layout=compact" alt="kennethrioja" /></p> -->
 
-- 🔭 I’m currently working on [TeSS](https://github.com/kennethrioja/TeSS)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethrioja&show_icons=true&locale=en" alt="kennethrioja" /></p>
 
-- 👨‍💻 All of my projects are available at [https://kennethrioja.github.io/projects/](https://kennethrioja.github.io/projects/)
+📫 Let's connect: <a href="https://linkedin.com/in/kennethrioja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennethrioja" height="30" width="40" /></a>
 
-- 📝 I regularly write articles on [https://kennethrioja.github.io/blog/](https://kennethrioja.github.io/blog/)
+👨‍💻 Projects: [https://kennethrioja.github.io/projects/](https://kennethrioja.github.io/projects/)
 
-- 📫 How to reach me: **<https://kennethrioja.github.io/>**
+📝 Articles: [https://kennethrioja.github.io/blog/](https://kennethrioja.github.io/blog/)
 
-- ⚡ Fun fact, **I can recognize a lot of Gen 1,2,3 Pokemon cries**
+What else do you need to know? 🙃
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kennethrioja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennethrioja" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -79,7 +75,3 @@
 
 <h4 align="left">UI / UX</h4>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethrioja&show_icons=true&locale=en&layout=compact" alt="kennethrioja" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethrioja&show_icons=true&locale=en" alt="kennethrioja" /></p>

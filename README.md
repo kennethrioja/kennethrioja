@@ -1,6 +1,6 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennethrioja&show_icons=true&locale=en&layout=compact" alt="kennethrioja" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethrioja&show_icons=true&locale=en" alt="kennethrioja" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethrioja&show_icons=true&locale=en" alt="kennethrioja" /></p> 
 
 📫 Let's connect: <a href="https://linkedin.com/in/kennethrioja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennethrioja" height="30" width="40" /></a>
 

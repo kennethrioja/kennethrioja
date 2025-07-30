@@ -8,7 +8,7 @@
 
 📝 Articles: [https://kennethrioja.github.io/blog/](https://kennethrioja.github.io/blog/)
 
-What else do you need to know? 🙃
+Looking forward to meeting and discussing with you for any project!
 
 ---
 
